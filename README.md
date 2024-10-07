@@ -1,50 +1,35 @@
-![MasterHead](https://github.com/user-attachments/assets/50fdc66f-0d23-4b4b-8267-395026e6fce4.gif)
+<p align="center">
+  <img height="300" src="https://github.com/user-attachments/assets/f6a64643-d67b-4278-a3a8-f8122e0e9a6c" alt="Açıklama">
+</p>
+<h1 align="center">I'm Berkant</h1>
+<h3 align="center">Backent Developer</h3>
 
 
-<h2 align="left">Welcome to the my universe👋</h2>
+<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/ce28f673-22bf-4587-af56-95102d50cf9e">	
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turkmuhendisi&label=Profile%20views&color=0e75b6&style=flat" alt="turkmuhendisi" /> </p>
 
-###
+- 🔭 I’m currently working on Banking Systems
+  
+- 🌱 I’m currently learning **Spring Boot, Microservices, Modularization, Rest Api, WebSocket, Android Development with Jetpack Compose**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
+- 📫 How to reach me **1turkmuhendisi@gmail.com**
 
-###
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/turkmuhendisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turkmuhendisi" height="30" width="40" /></a>
+<a href="https://instagram.com/turkmuhendisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turkmuhendisi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@turkmuhendisi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="turkmuhendisi" height="30" width="40" /></a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=turkmuhendisi&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRpOXF2MDVvcmYzMHU4Zzc4azZybDIybzY0b2ZnM3R6amVmMml5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ITRemFlr5tS39AzQUL/giphy-downsized-large.gif"  />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=turkmuhendisi&show_icons=true&locale=en&layout=compact" alt="turkmuhendisi" /></p>
 
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=turkmuhendisi&show_icons=true&locale=en" alt="turkmuhendisi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=turkmuhendisi&" alt="turkmuhendisi" /></p>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=turkmuhendisi&show_icons=true&locale=en" alt="turkmuhendisi" height="150" alt="stats graph"  />
