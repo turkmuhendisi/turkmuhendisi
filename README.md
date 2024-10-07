@@ -2,7 +2,7 @@
   <img height="300" src="https://github.com/user-attachments/assets/f6a64643-d67b-4278-a3a8-f8122e0e9a6c" alt="Açıklama">
 </p>
 <h1 align="center">I'm Berkant</h1>
-<h3 align="center">Backent Developer</h3>
+<h3 align="center">Backend Developer</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/ce28f673-22bf-4587-af56-95102d50cf9e">	
