@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer</h3> <br><br>
 
 # 💫 About Me:
-🔭 I’m currently working on TuranPay & BariaTrack<br>🌱 I’m currently learning Spring Boot, Microservices, Modularization, Android Development
+🔭 I’m currently working on TuranPay & Turanoa<br>🌱 I’m currently learning Spring Boot, Microservices, Modularization, Android Development
 
 
 ## 🌐 Socials:
